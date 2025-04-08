@@ -1,30 +1,18 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)(Turma)_(Grupo)_(NomeDoProjeto)_(Entrega_01)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2025.1(T01)_G1_Embarcado_Entrega_01*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# FTCEPodcast 🎙️
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 07<br>
 **Entrega**: 01<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 211061814  |  Gustavo Costa de Jesus |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+
+O FTCEPodcast é uma plataforma digital voltada à comunidade da FCTE, com o objetivo de promover a difusão de conhecimento por meio de podcasts educacionais. Disponível em versão web, o software permite a publicação e o acesso a conteúdos produzidos por docentes, monitores e convidados, abordando tópicos relevantes de diferentes disciplinas. A ferramenta visa fortalecer a aprendizagem colaborativa, incentivar o protagonismo acadêmico e facilitar o compartilhamento de saberes dentro e fora do ambiente institucional.
 
 ## Screenshots da Primeira Entrega
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
