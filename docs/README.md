@@ -8,7 +8,26 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 211061814  |  Gustavo Costa de Jesus |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 211061832  |  Harleny Angéllica Araújo de Sousa |
+| 211062947  |  Iderlan Junio Cardoso da Silva |
+| 221037975  |  Natália Rodrigues de Morais |
+| 221035040  |  Marcella Sousa Anderle |
+| 200069314  |  Rômulo de Araujo Coelho Reis |
+| 200024787  |  Mateus de Siqueira Silva  |
+| 190044128  |  Rafael Kenji Taira  |
+| 202023805  |  Joao Paulo Barros de Cristo  |
+| 211063176  |  Joyce Dionizio  |
+
+
+
+
+
+
+
+
+
+
+
 
 ## Sobre 
 
