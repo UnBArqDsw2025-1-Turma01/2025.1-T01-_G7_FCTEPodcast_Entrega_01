@@ -19,6 +19,13 @@ export const login = async (req: Request, res: Response) => {
   }
   // Verifica se a senha está correta
   if (aluno) {
+    if (!aluno.ativo) {
+      res
+        .status(401)
+        .json({ message: "Usuário não ativo, verifique seu email." });
+      return;
+    }
+
     if (!(await bcrypt.compare(senha, aluno.senha))) {
       res.status(401).json({ message: "Senha incorreta" });
       return;
@@ -35,6 +42,13 @@ export const login = async (req: Request, res: Response) => {
   }
 
   if (professor) {
+    if (!professor.ativo) {
+      res
+        .status(401)
+        .json({ message: "Usuário não ativo, verifique seu email." });
+      return;
+    }
+
     if (!(await bcrypt.compare(senha, professor.senha))) {
       res.status(401).json({ message: "Senha incorreta" });
       return;
