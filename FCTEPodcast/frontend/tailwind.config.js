@@ -8,7 +8,17 @@ export default {
     "./node_modules/@heroui/theme/dist/**/*.{js,ts,jsx,tsx}"
   ],
   theme: {
-    extend: {},
+    extend: {
+      keyframes: {
+        'bounce-dot': {
+          '0%, 100%': { transform: 'translateY(0)' },
+          '50%': { transform: 'translateY(-0.4rem)' },
+        },
+      },
+      animation: {
+        'bounce-dot': 'bounce-dot 1s infinite',
+      },
+    },
     
   },
   darkMode: 'class',

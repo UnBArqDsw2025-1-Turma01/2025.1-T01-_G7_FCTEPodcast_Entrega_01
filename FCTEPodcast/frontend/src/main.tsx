@@ -4,6 +4,7 @@ import "./index.css";
 import App from "./App.tsx";
 import { HeroUIProvider, ToastProvider } from "@heroui/react";
 import { BrowserRouter } from "react-router-dom";
+import { AuthProvider } from "./context/auth/AuthContext.tsx";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
@@ -11,7 +12,9 @@ createRoot(document.getElementById("root")!).render(
       <HeroUIProvider>
         <main className="dark text-foreground bg-background h-screen">
           <ToastProvider />
-          <App />
+          <AuthProvider>
+            <App />
+          </AuthProvider>
         </main>
       </HeroUIProvider>
     </BrowserRouter>

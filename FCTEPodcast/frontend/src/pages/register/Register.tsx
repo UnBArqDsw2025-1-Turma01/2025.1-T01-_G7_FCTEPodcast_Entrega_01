@@ -56,7 +56,7 @@ const Register = () => {
 
     setLoading(true);
     await axios
-      .post(`${API_URL}/aluno/register`, {
+      .post(`${API_URL}/${tipoUsuario}/register`, {
         nome,
         email,
         senha,
@@ -81,8 +81,6 @@ const Register = () => {
         setLoading(false);
       });
   };
-
-  console.log(API_URL);
 
   return (
     <div className="flex flex-col items-center justify-center h-screen">

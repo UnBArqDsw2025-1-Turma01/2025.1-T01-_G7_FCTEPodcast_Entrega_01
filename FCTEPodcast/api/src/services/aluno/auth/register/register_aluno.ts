@@ -3,12 +3,28 @@ import Aluno from "../../../../model/Aluno";
 import bcrypt from "bcryptjs";
 import OTPAluno from "../../../../model/OTP";
 import { send_mail } from "../../../../utils/mail/send_mail";
+import { FRONTEND_URL } from "../../../../utils/constants";
 
 export const register_aluno = async (req: Request, res: Response) => {
   const { nome, email, senha } = req.body;
 
   if (!nome || !email || !senha) {
     res.status(400).json({ message: "Preencha todos os campos" });
+    return;
+  }
+
+  const aluno = await Aluno.findOne({
+    email: email,
+  });
+  if (aluno) {
+    res.status(400).json({ message: "Email já cadastrado" });
+    return;
+  }
+  const regex = /^[^@\s]+@(aluno\.)?unb\.br$/;
+  if (!regex.test(email)) {
+    res.status(400).json({
+      message: "Email inválido. O email deve ser institucional.",
+    });
     return;
   }
 
@@ -40,7 +56,12 @@ export const register_aluno = async (req: Request, res: Response) => {
 
   await send_mail(
     `
-        <p>Olá ${nome},</p><p>Seu código: <strong>${otp}</strong></p><p>Válido por 5 min.</p><p>Se não foi você, ignore.</p><p>– Equipe FCTEPodcast</p>
+      <p>Olá ${nome},</p>
+      <p>Clique neste link para ativar sua conta:</p>
+      <p><a href="${FRONTEND_URL}/conta/validar/${otp}">${FRONTEND_URL}/conta/validar/${otp}</a></p>
+      <p>O link é válido por 5 minutos.</p>
+      <p>Se não foi você, ignore.</p>
+      <p>– Equipe FCTEPodcast</p>
     `,
     "Verificação de email",
     email
