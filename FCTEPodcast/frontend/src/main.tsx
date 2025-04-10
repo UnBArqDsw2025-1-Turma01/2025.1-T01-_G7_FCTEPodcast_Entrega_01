@@ -11,7 +11,7 @@ createRoot(document.getElementById("root")!).render(
     <BrowserRouter>
       <HeroUIProvider>
         <main className="dark text-foreground bg-background h-screen">
-          <ToastProvider />
+          <ToastProvider placement="top-right" />
           <AuthProvider>
             <App />
           </AuthProvider>

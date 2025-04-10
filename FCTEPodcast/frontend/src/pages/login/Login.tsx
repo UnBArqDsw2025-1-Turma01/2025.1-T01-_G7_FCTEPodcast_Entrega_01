@@ -19,10 +19,10 @@ const Login = () => {
   return (
     <div className="flex flex-col items-center justify-center h-screen">
       <div>
-        <img className="h-52" src={logo} />
+        <img className="h-28" src={logo} />
       </div>
       <Card className="w-96 mt-4 p-2">
-        <CardHeader>
+        <CardHeader className="flex items-center justify-center">
           <h1 className="font-bold text-2xl">Login</h1>
         </CardHeader>
 
