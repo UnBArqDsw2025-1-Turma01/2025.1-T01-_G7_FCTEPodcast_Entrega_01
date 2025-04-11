@@ -7,9 +7,9 @@
   - [🎯 Objetivo](/VisaoProduto/objetivo.md)
   - [🛠️ Tecnologias](/VisaoProduto/tecnologias.md)
   
-- [ **Processo de Desenvolvimento** ](/ProcessoDesenvolvimento/processo.md)
+- [🛠️ **Processo de Desenvolvimento**](/ProcessoDesenvolvimento/processo.md)
 
-- **Desenho de Software (Base)**
+- 📐 **Desenho de Software (Base)**
   <!-- - [1. Desenho de Software (Base)](/Base/1.Base.md) -->
   - [1.1. Design Sprint](/Base/1.1.DesignSprint.md)
   - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)
