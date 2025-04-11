@@ -1,6 +1,9 @@
 ## 🎯 Objetivos do Produto
 
-Nosso objetivo é desenvolver uma plataforma web que facilite a disseminação, o acesso e a organização de conteúdos educacionais em formato de podcast, promovendo o compartilhamento de conhecimento no ambiente acadêmico da FCTE.
+🎙️ Introdução
+Este projeto tem como objetivo o desenvolvimento de uma plataforma web voltada para a disseminação, organização e acesso a conteúdos educacionais em formato de podcast. A iniciativa surge com a proposta de promover o compartilhamento de conhecimento dentro do ambiente acadêmico da FCTE, oferecendo aos estudantes, professores e demais membros da comunidade uma ferramenta prática e acessível para consumir e compartilhar saberes por meio do áudio.
+
+Ao integrar tecnologia e educação, buscamos incentivar novas formas de aprendizado, reforçando a importância da acessibilidade e da flexibilidade no processo educacional.
 
 A plataforma será projetada para:
 
