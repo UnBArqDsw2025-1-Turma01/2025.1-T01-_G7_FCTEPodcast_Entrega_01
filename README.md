@@ -6,7 +6,7 @@
 
 ## 📖 Introdução
 
-FCTEPodcast é projeto que busca criar uma plataforma digital voltada para a criação, compartilhamento e acesso a conteúdos educacionais em formato de podcast para os alunos da FCTE.  
+FCTEPodcast é um projeto que busca criar uma plataforma digital voltada para a criação, compartilhamento e acesso a conteúdos educacionais em formato de podcast para os alunos da FCTE.  
 
 ## 📚 Para Rodar a Documentação
 
