@@ -39,3 +39,11 @@ O FTCEPodcast foi desenvolvido utilizando tecnologias modernas e consolidadas no
 - O **frontend** em React realiza requisições HTTP ao **backend Express**, que processa os dados e interage com o **MongoDB**.
 - As camadas se comunicam de forma assíncrona, garantindo desempenho e responsividade na experiência do usuário.
 
+
+---
+
+#### Histórico de versões 
+
+| Versão |    Data    |              Descrição              |       Autor(es)       |      Revisor(es)       |
+|:------:|:----------:|:-----------------------------------:|:---------------------:|:----------------------:|
+| 1.0    | 08/04/2025 | Criação do documento                | Gustavo Costa         | Harleny Angéllica      |

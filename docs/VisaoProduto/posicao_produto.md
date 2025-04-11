@@ -11,3 +11,12 @@ Diante da necessidade de facilitar o acesso, a organização e a disseminação 
 | 🔄 **Ao contrário de** | Plataformas genéricas como YouTube, Spotify ou ferramentas de uso geral, que embora ofereçam funcionalidades semelhantes,                           |
 |                        | são voltadas ao público em geral e carecem de recursos específicos para o contexto acadêmico e universitário                                        |
 | 🎯 **Nosso produto**   | É voltado ao contexto acadêmico da FCTE, promovendo a aprendizagem colaborativa e o protagonismo discente                                           |
+
+
+---
+
+#### Histórico de versões 
+
+| Versão |    Data    |              Descrição              |       Autor(es)       |      Revisor(es)       |
+|:------:|:----------:|:-----------------------------------:|:---------------------:|:----------------------:|
+| 1.0    | 08/04/2025 | Criação do documento                | Gustavo Costa         | Harleny Angéllica      |

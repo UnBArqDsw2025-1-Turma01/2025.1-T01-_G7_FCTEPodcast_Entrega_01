@@ -13,3 +13,12 @@ O **FTCEPodcast** foi criado para enfrentar os seguintes desafios recorrentes no
 
 - 📌 **Baixo incentivo à colaboração e protagonismo discente**  
   Estudantes têm poucas oportunidades de atuar como produtores de conteúdo, o que limita sua participação ativa no processo de aprendizagem.
+
+
+---
+
+#### Histórico de versões 
+
+| Versão |    Data    |              Descrição              |       Autor(es)       |      Revisor(es)       |
+|:------:|:----------:|:-----------------------------------:|:---------------------:|:----------------------:|
+| 1.0    | 08/04/2025 | Criação do documento                | Gustavo Costa         | Harleny Angéllica      |

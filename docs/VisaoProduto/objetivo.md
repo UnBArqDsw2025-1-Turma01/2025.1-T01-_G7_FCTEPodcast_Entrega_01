@@ -14,3 +14,11 @@ Objetivos secundários incluem:
 - 💬 **Permitir comentários públicos identificáveis**, incentivando interações relevantes entre os membros da comunidade acadêmica.
 
 Com essas funcionalidades, buscamos enriquecer o processo educacional, promover o protagonismo discente e fortalecer o compartilhamento de saberes no contexto da FCTE.
+
+---
+
+#### Histórico de versões 
+
+| Versão |    Data    |        Descrição         |    Autor(es)    |  Revisor(es)          
+| :----: | :--------: | :----------------------: | :-------------: | :----------------|
+|  1.0   | 11/04/2025 |   Criação do documento   | Gustavo Costa | Harleny Angéllica  | 

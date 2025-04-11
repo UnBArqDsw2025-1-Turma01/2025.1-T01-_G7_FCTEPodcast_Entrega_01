@@ -45,4 +45,9 @@ Cada iteração tem um plano definido, com **entregas incrementais** que geram v
 | 🧐 Analista           | Natália               | Define prioridades para o sistema e avalia resultados.             |
 | 👨‍💻 Desenvolvedor      | Equipe                | Constrói partes do sistema, testa, integra e segue a arquitetura definida.         |
 
----
+
+#### Histórico de versões 
+
+| Versão |    Data    |        Descrição         |    Autor(es)    |  Revisor(es)          
+| :----: | :--------: | :----------------------: | :-------------: | :----------------|
+|  1.0   | 11/04/2025 |   Criação do documento   | Gustavo Costa | Harleny Angéllica  | 
