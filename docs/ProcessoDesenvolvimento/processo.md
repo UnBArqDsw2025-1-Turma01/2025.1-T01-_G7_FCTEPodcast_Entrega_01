@@ -57,4 +57,4 @@ Cada iteração tem um plano definido, com **entregas incrementais** que geram v
 | Versão |    Data    |        Descrição         |    Autor(es)    |  Revisor(es)          
 | :----: | :--------: | :----------------------: | :-------------: | :----------------|
 |  1.0   | 08/04/2025 |   Criação do documento   | Gustavo Costa | Harleny Angéllica  | 
-|  1.1   | 11/04/2025 |   Formatando fontes      | Gustavo Costa |                    |
+|  1.1   | 11/04/2025 |   Formatando fontes      | Gustavo Costa |   Harleny Angéllica   |
