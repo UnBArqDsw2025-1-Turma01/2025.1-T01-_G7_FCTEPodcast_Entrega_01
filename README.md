@@ -1,14 +1,12 @@
 # FTCEPodcast 🎙️
 
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/916215eb-3ed2-4803-a1c6-0ac4151ba929" alt="FCTE Podcast" width="300"/>
 </p>
 
 ## 📖 Introdução
 
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+FCTEPodcast é projeto que busca criar uma plataforma digital voltada para a criação, compartilhamento e acesso a conteúdos educacionais em formato de podcast para os alunos da FCTE.  
 
 ## 📚 Para Rodar a Documentação
 
