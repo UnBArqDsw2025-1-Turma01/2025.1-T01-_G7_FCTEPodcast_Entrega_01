@@ -49,6 +49,7 @@ export const register_aluno = async (req: Request, res: Response) => {
     otp,
     user_id: new_aluno._id,
   });
+
   if (!new_aluno_otp) {
     res.status(500).json({ message: "Erro ao criar OTP" });
     return;
