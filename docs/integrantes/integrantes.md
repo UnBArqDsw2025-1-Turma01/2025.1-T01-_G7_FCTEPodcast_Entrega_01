@@ -49,6 +49,16 @@
 </div>
 
 <div align="center">
+  <p style="font-weight: bold; font-size: 2em;">🧑‍💻 Natália Rodrigues de Morais
+</p>
+  <img src="https://avatars.githubusercontent.com/u/137426012?v=4" alt="Gustavo Costa" width="120" style="border-radius: 50%; margin-bottom: 10px;" />
+  <br/>
+  <a href="https://github.com/Natyrodrigues" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Natyrodrigues-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
+
+<div align="center">
   <p style="font-weight: bold; font-size: 2em;">🧑‍💻 Mateus de Siqueira Silva</p>
   <img src="https://avatars.githubusercontent.com/u/43494763?v=4" alt="Gustavo Costa" width="120" style="border-radius: 50%; margin-bottom: 10px;" />
   <br/>
