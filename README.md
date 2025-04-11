@@ -2,8 +2,9 @@
 
 Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
 
-
-![Image](https://github.com/user-attachments/assets/df86e0a5-578d-4315-876a-c33b55351300)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/916215eb-3ed2-4803-a1c6-0ac4151ba929" alt="FCTE Podcast" width="300"/>
+</p>
 
 ## 📖 Introdução
 
