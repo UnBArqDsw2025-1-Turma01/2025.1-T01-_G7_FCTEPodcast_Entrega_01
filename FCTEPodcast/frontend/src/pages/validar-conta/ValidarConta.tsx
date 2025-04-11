@@ -12,22 +12,31 @@ const ValidarConta = () => {
   const navigate = useNavigate();
 
   const validar_otp = async () => {
-    setLoading(true);
-    await axios
-      .post(`${API_URL}/aluno/validar-otp/${otp}`)
-      .then(() => {
-        setSuccess(true);
-        setLoading(false);
-      })
-      .catch((err) => {
-        addToast({
-          title: "Erro",
-          description: err.response.data.message,
-          color: "danger",
-        });
-        setSuccess(false);
-        setLoading(false);
+    try {
+      setLoading(true);
+      console.log("OTP recebido:", otp);
+      const res = await axios.post(`${API_URL}/aluno/validar-otp/${otp}`);
+      console.log("Resposta da API:", res);
+
+      // Se a API usar algum campo "success" no body:
+      if (res.data?.success === false) {
+        throw new Error(res.data.message || "Erro desconhecido");
+      }
+
+      setSuccess(true);
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    } catch (err: any) {
+      console.error("Erro ao validar:", err);
+      addToast({
+        title: "Erro",
+        description:
+          err.response?.data?.message || err.message || "Erro inesperado",
+        color: "danger",
       });
+      setSuccess(false);
+    } finally {
+      setLoading(false);
+    }
   };
 
   useEffect(() => {
