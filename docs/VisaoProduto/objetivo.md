@@ -21,4 +21,4 @@ Com essas funcionalidades, buscamos enriquecer o processo educacional, promover 
 
 | Versão |    Data    |        Descrição         |    Autor(es)    |  Revisor(es)          
 | :----: | :--------: | :----------------------: | :-------------: | :----------------|
-|  1.0   | 11/04/2025 |   Criação do documento   | Gustavo Costa | Harleny Angéllica  | 
+|  1.0   | 08/04/2025 |   Criação do documento   | Gustavo Costa | Harleny Angéllica  | 
