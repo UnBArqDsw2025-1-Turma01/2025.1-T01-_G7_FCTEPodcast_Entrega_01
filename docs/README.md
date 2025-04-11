@@ -46,3 +46,10 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 
 ## Informações Complementares 
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
+
+
+#### Histórico de versões 
+
+| Versão |    Data    |        Descrição         |    Autor(es)    |  Revisor(es)          
+| :----: | :--------: | :----------------------: | :-------------: | :----------------|
+|  1.0   | 08/04/2025 |   Criação do documento   | Gustavo Costa | Harleny Angéllica  | 
