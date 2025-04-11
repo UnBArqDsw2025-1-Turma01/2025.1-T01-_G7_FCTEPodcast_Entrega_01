@@ -45,9 +45,16 @@ Cada iteração tem um plano definido, com **entregas incrementais** que geram v
 | 🧐 Analista           | Natália               | Define prioridades para o sistema e avalia resultados.             |
 | 👨‍💻 Desenvolvedor      | Equipe                | Constrói partes do sistema, testa, integra e segue a arquitetura definida.         |
 
+## 📚 Bibliografia
+
+[- Object Management Group. **OpenUP: Um processo integrado e ágil**. Disponível em: [OMG BPMN Specification](https://www.omg.org/spec/BPMN/2.0.2/)  ](https://medium.com/@LucianeS/openup-um-processo-integrado-e-agil-a4400c17ce62)
+
+[- What is OpenUP?. **Eclipe Process Framework Composer**. Disponível em: [What is OpenUP?]](https://www.utm.mx/~caff/doc/OpenUPWeb/)
+
 
 #### Histórico de versões 
 
 | Versão |    Data    |        Descrição         |    Autor(es)    |  Revisor(es)          
 | :----: | :--------: | :----------------------: | :-------------: | :----------------|
 |  1.0   | 08/04/2025 |   Criação do documento   | Gustavo Costa | Harleny Angéllica  | 
+|  1.1   | 11/04/2025 |   Formatando fontes      | Gustavo Costa |                    |
