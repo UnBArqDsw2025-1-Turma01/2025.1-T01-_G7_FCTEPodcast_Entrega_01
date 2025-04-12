@@ -6,7 +6,13 @@
 
 ## 📖 Introdução
 
-FCTEPodcast é um projeto que busca criar uma plataforma digital voltada para a criação, compartilhamento e acesso a conteúdos educacionais em formato de podcast para os alunos da FCTE.  
+Este projeto tem como objetivo o desenvolvimento de uma plataforma web voltada à organização, ao acesso e à disseminação de conteúdos educacionais em formato de podcast. A proposta busca facilitar o compartilhamento de conhecimento no ambiente acadêmico da FCTE, promovendo uma forma acessível e dinâmica de aprendizado por meio do áudio.
+
+ <h2 align="left">
+    Acesse o site clicando 
+     <a href="https://fctepodcast.site/login">aqui
+     </a>
+   </h2>
 
 ## 📚 Para Rodar a Documentação
 
