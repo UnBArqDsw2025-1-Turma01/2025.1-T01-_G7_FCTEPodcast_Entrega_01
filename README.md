@@ -14,8 +14,6 @@ Este projeto tem como objetivo o desenvolvimento de uma plataforma web voltada �
      </a>
    </h2>
 
-
-
 ## 📚 Para Rodar a Documentação
 
 Para visualizar a documentação do projeto localmente, utilizamos o **Docsify**, uma ferramenta leve e prática para gerar documentações interativas diretamente a partir de arquivos Markdown.
